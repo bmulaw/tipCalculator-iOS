@@ -24,8 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Uploading file..._l1r4gn3tk]()
-
+![](https://i.imgur.com/dxxMXLk.gif)
 
 
 GIF created with [EZGif](https://ezgif.com).
