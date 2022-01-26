@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/DSeqllV.gif)
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [EZGif](https://ezgif.com).
 
 ## Notes
 
